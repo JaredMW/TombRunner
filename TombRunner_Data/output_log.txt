@@ -1,0 +1,52 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M  (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2991 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.048 seconds
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Jared_2\Desktop\School\First Year\IGME_105 (GDAPS I)\Unity Game\Lab Runner\TombRunner_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c4 -> priority: 1 
+  Thread -> id: 224c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.545093 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 0.876641 ms (FindLiveObjects: 0.116393 ms CreateObjectMapping: 0.151639 ms MarkObjects: 0.596312 ms  DeleteObjects: 0.011065 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.705756 ms
+
+Unloading 1834 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 2.261890 ms (FindLiveObjects: 0.227049 ms CreateObjectMapping: 0.427869 ms MarkObjects: 0.588935 ms  DeleteObjects: 1.015576 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.237707 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 2.021316 ms (FindLiveObjects: 0.225820 ms CreateObjectMapping: 0.428279 ms MarkObjects: 1.334839 ms  DeleteObjects: 0.029098 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.059855 ms
+
+Unloading 1832 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 2.202874 ms (FindLiveObjects: 0.208607 ms CreateObjectMapping: 0.425820 ms MarkObjects: 0.622132 ms  DeleteObjects: 0.944264 ms)
+
